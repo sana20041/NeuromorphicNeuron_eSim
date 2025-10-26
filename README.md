@@ -1,4 +1,5 @@
-(marathon.png)
+![Project Banner](marathon.png)
+
  
  
  
@@ -106,6 +107,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
