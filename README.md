@@ -75,31 +75,31 @@ The Ngspice simulation demonstrates the expected integrate-and-fire neuron behav
 
 
 
-```
 
-7.Conclusion
+## 7.Conclusion
 The designed neuromorphic circuit successfully models integrate-and-fire neuron behavior with adaptive synaptic learning using STDP.  
 This confirms the potential of eSim and Ngspice as effective open-source tools for neuromorphic circuit exploration.  
 The project serves as a base for future research in low-power, brain-inspired VLSI design.
 
 ---
 
-8.GitHub Repository Link
+## 8.GitHub Repository Link
 [https://github.com/sana20041/NeuromorphicNeuron_eSim](https://github.com/sana20041/NeuromorphicNeuron_eSim)
 
 ---
-9.License and References
+## 9.License and References
 - This project is released under the **GNU General Public License v3.0 (GPLv3)**.  
 - References:  
   1. eSim FOSSEE Project – [https://esim.fossee.in](https://esim.fossee.in)  
   2. Mead, C. “Neuromorphic Electronic Systems,” *Proceedings of the IEEE*, 1990.
 ---
 
-10.Author
+## 10.Author
 **Sana**  
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
