@@ -64,16 +64,19 @@ The neuromorphic circuit consists of two main sub-blocks:
 - **KiCad** – for schematic editing.  
 - **GitHub** – for version control and documentation.
 
-- eSim.png
+- ![eSim Screenshot](eSim.png)
+
 ---
 
 5.Circuit Diagram
+![Circuit Diagram](circuit.png)
 
 
 ---
 
 6.Simulation Results
-![transient analysis table](transient analysis.png)
+![Transient Analysis](transient%20analysis.png)
+
 
 ![Simulation Waveform](waveform.png)
 
@@ -107,6 +110,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
