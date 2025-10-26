@@ -67,11 +67,10 @@ The neuromorphic circuit consists of two main sub-blocks:
 ## 6.Simulation Results
 ![Transient Analysis](transient%20analysis.png)
 
-```markdown
+```
 ![Simulation Waveform](waveform.png)
 
 
-```markdown
 
 The Ngspice simulation demonstrates the expected integrate-and-fire neuron behavior and shows how the STDP synapse modifies its weight based on spike timing.
 
@@ -102,6 +101,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
