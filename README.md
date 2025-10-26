@@ -83,6 +83,17 @@ The project serves as a base for future research in low-power, brain-inspired VL
 
 ---
 
+
+### 🔮 Future Scope
+The project can be further extended in several ways:
+- Implement multiple interconnected neurons to form a small spiking neural network (SNN).  
+- Integrate memristor-based synapses for realistic analog learning behavior.  
+- Develop FPGA or ASIC implementations for hardware acceleration.  
+- Explore real-time sensory input (e.g., vision or sound) for neuromorphic perception.  
+- Optimize power and area for low-power edge-AI applications.
+
+---
+
 ## 8.GitHub Repository Link
 [https://github.com/sana20041/NeuromorphicNeuron_eSim](https://github.com/sana20041/NeuromorphicNeuron_eSim)
 
@@ -99,6 +110,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
