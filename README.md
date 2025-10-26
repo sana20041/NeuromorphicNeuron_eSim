@@ -67,7 +67,6 @@ The neuromorphic circuit consists of two main sub-blocks:
 ## 6.Simulation Results
 ![Transient Analysis](transient%20analysis.png)
 
-```
 ![Simulation Waveform](waveform.png)
 
 
@@ -101,6 +100,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
