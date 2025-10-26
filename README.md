@@ -8,7 +8,8 @@ This project focuses on designing and simulating a neuromorphic circuit that mim
 
 
 
-Table of Contents
+## Table of Contents
+
 1. Abstract
 2. Objective
 3. Description
@@ -25,12 +26,12 @@ Table of Contents
 
 
 
-##1.Abstract
+## 1.Abstract
 This project demonstrates a neuromorphic circuit that mimics the spiking and learning behavior of biological neurons.  
 - An Integrate-and-Fire (I&F) neuron with a Spike-Timing-Dependent Plasticity (STDP) synapse is designed and simulated using eSim and Ngspice.  
 - The circuit produces neuron-like spikes and adaptive synaptic responses, showcasing the potential of neuromorphic hardware for brain-inspired computation.
 ---
-##2.Objective
+## 2.Objective
 The main objective of this project is to design and simulate a neuromorphic circuit that mimics the biological learning and spiking mechanisms of neurons.  
 Specifically, the goal is to:
 - Implement an Integrate-and-Fire neuron that integrates input signals and generates spikes when the threshold is reached.  
@@ -39,7 +40,7 @@ Specifically, the goal is to:
 
 ---
 
-3.Description
+## 3.Description
 The neuromorphic circuit consists of two main sub-blocks:
 1. **STDP Synapse** – Modulates the synaptic weight based on the time difference between pre- and post-synaptic spikes. It uses MOSFET switches and capacitors to store and update the synaptic strength.  
 2. **Integrate-and-Fire Neuron** – Integrates the input current on a membrane capacitor. When the voltage exceeds a threshold, the neuron fires an output spike and resets the membrane potential.
@@ -47,7 +48,7 @@ The neuromorphic circuit consists of two main sub-blocks:
 
 ---
 
-4.Software and Tools Used
+## 4.Software and Tools Used
 - **eSim (by FOSSEE, IIT Bombay)** – for schematic design and circuit simulation.  
 - **Ngspice** – for transient and analog simulations.  
 - **KiCad** – for schematic editing.  
@@ -57,13 +58,13 @@ The neuromorphic circuit consists of two main sub-blocks:
 
 ---
 
-5.Circuit Diagram
+## 5.Circuit Diagram
 ![Circuit Diagram](circuit.png)
 
 
 ---
 
-6.Simulation Results
+## 6.Simulation Results
 ![Transient Analysis](transient%20analysis.png)
 
 
@@ -77,7 +78,7 @@ The Ngspice simulation demonstrates the expected integrate-and-fire neuron behav
 
 ---
 
-7.Conclusion
+ ## 7.Conclusion
 The designed neuromorphic circuit successfully models integrate-and-fire neuron behavior with adaptive synaptic learning using STDP.  
 This confirms the potential of eSim and Ngspice as effective open-source tools for neuromorphic circuit exploration.  
 The project serves as a base for future research in low-power, brain-inspired VLSI design.
@@ -99,6 +100,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
