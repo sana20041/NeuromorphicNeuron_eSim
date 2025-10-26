@@ -1,6 +1,11 @@
 ![Project Banner](marathon.png)
+
 <h2 style="color:#1d3557; font-size:28px;">🧠 Neuromorphic Circuit Design: Integrate-and-Fire Neuron with STDP Synapse</h2>
+
 This project focuses on designing and simulating a neuromorphic circuit that mimics the behavior of biological neurons and synapses. It implements an Integrate-and-Fire (I&F) neuron with aSpike-Timing-Dependent Plasticity (STDP) synapse using eSim and Ngspice, demonstrating brain-inspired learning mechanisms. 
+
+
+
 
 
 Table of Contents
@@ -16,17 +21,16 @@ Table of Contents
 10.Author
 
 ---
-## 💜 Abstract
-*This text is italic*
-_This is also italic_
+ 
 
 
-1.Abstract
+
+##1.Abstract
 This project demonstrates a neuromorphic circuit that mimics the spiking and learning behavior of biological neurons.  
 - An Integrate-and-Fire (I&F) neuron with a Spike-Timing-Dependent Plasticity (STDP) synapse is designed and simulated using eSim and Ngspice.  
 - The circuit produces neuron-like spikes and adaptive synaptic responses, showcasing the potential of neuromorphic hardware for brain-inspired computation.
 ---
-2.Objective
+##2.Objective
 The main objective of this project is to design and simulate a neuromorphic circuit that mimics the biological learning and spiking mechanisms of neurons.  
 Specifically, the goal is to:
 - Implement an Integrate-and-Fire neuron that integrates input signals and generates spikes when the threshold is reached.  
@@ -95,6 +99,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
