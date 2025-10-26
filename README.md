@@ -17,9 +17,10 @@ This project focuses on designing and simulating a neuromorphic circuit that mim
 5. Circuit-Diagram
 6. Simulation-Results
 7. Conclusion
-8. GitHub-Repository-Link
-9. License-and-Reference
-10.Author
+8. Future Scope
+9. GitHub-Repository-Link
+10. License-and-Reference
+11.Author
 
 ---
  
@@ -84,7 +85,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 ---
 
 
-### 🔮 Future Scope
+### 🔮 8.Future Scope
 The project can be further extended in several ways:
 - Implement multiple interconnected neurons to form a small spiking neural network (SNN).  
 - Integrate memristor-based synapses for realistic analog learning behavior.  
@@ -94,22 +95,23 @@ The project can be further extended in several ways:
 
 ---
 
-## 8.GitHub Repository Link
+## 9..GitHub Repository Link
 [https://github.com/sana20041/NeuromorphicNeuron_eSim](https://github.com/sana20041/NeuromorphicNeuron_eSim)
 
 ---
-## 9.License and References
+## 10.License and References
 - This project is released under the **GNU General Public License v3.0 (GPLv3)**.  
 - References:  
   1. eSim FOSSEE Project – [https://esim.fossee.in](https://esim.fossee.in)  
   2. Mead, C. “Neuromorphic Electronic Systems,” *Proceedings of the IEEE*, 1990.
 ---
 
-## 10.Author
+## 11.Author
 **Sana**  
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
