@@ -85,7 +85,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 ---
 
 
-### 🔮 8.Future Scope
+### 8.🔮 Future Scope
 The project can be further extended in several ways:
 - Implement multiple interconnected neurons to form a small spiking neural network (SNN).  
 - Integrate memristor-based synapses for realistic analog learning behavior.  
@@ -106,11 +106,13 @@ The project can be further extended in several ways:
   2. Mead, C. “Neuromorphic Electronic Systems,” *Proceedings of the IEEE*, 1990.
 ---
 
-## 11.Author
+ 
+## <span style="color:red">11. Author</span>
 **Sana**  
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
