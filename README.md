@@ -17,6 +17,9 @@ Table of Contents
 
 ---
 ## 💜 Abstract
+*This text is italic*
+_This is also italic_
+
 
 1.Abstract
 This project demonstrates a neuromorphic circuit that mimics the spiking and learning behavior of biological neurons.  
@@ -92,6 +95,7 @@ The project serves as a base for future research in low-power, brain-inspired VL
 Department of Electronics and Communication Engineering  
 BVRIT Hyderabad College of Engineering for Women  
 📧 *Sana20041712@gmail.com*
+
 
 
 
